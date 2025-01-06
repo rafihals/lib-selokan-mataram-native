@@ -1,7 +1,7 @@
 /**
 * PHP Email Form Validation - v3.9
 * URL: php-email-form/
-* Author: Kelompok 7.com
+* Author: Kelompok 2.com
 */
 (function () {
   "use strict";

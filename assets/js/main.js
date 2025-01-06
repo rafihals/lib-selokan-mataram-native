@@ -1,8 +1,7 @@
 /**
 * Template Name: Mataram
-* Template URL: Mataram-bootstrap-photography-website-template/
-* Updated: Aug 07 2024 with Bootstrap v5.3.3
-* Author: Kelompok 7.com
+
+* Author: Kelompok 2.com
 * License: license/
 */
 
